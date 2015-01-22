@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1390399185 source:c:\users\carsten\documents\codeblocks\figurarv\main.cpp
+	<iostream>
+	"include/Triangles.h"
+
+1390400089 source:c:\users\carsten\documents\codeblocks\figurarv\src\triangles.cpp
+	<math.h>
+	"../include/Triangles.h"
+
+1390399972 c:\users\carsten\documents\codeblocks\figurarv\include\triangles.h
+

@@ -1,0 +1,22 @@
+var NAVTREEINDEX0 =
+{
+"_triangles_8h_source.html":[1,0,0],
+"annotated.html":[0,0],
+"class_triangles.html":[0,0,0],
+"class_triangles.html#a0d2aef5fd4151c2e31c0fea25f247d9c":[0,0,0,1],
+"class_triangles.html#a222bc3ffd2309bc239a40dd302f1f867":[0,0,0,11],
+"class_triangles.html#a239a49ce1f612ab21da468a0aa09f970":[0,0,0,10],
+"class_triangles.html#a58d6a46441d8e7ab8d2e3b97574a6ad6":[0,0,0,5],
+"class_triangles.html#a6b9f22b263343093295129e38f0dbc47":[0,0,0,8],
+"class_triangles.html#a9ee19bd83273b2bb529ffe5a95bec316":[0,0,0,7],
+"class_triangles.html#aa16e5b40eade254a26e9e87741edee04":[0,0,0,3],
+"class_triangles.html#aa9d60ac8e19117c71e79807c5dc1accb":[0,0,0,6],
+"class_triangles.html#aaeddc56b715ad076d5c4dbcbcd19bef9":[0,0,0,0],
+"class_triangles.html#ab06bc8863605a402bfa940a985fa1188":[0,0,0,4],
+"class_triangles.html#ac9a1da3a50c184cca54619ec1fd6b662":[0,0,0,2],
+"class_triangles.html#af7031cde5f08e9703567e13d4f48c255":[0,0,0,9],
+"classes.html":[0,1],
+"files.html":[1,0],
+"index.html":[],
+"pages.html":[]
+};

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1381304276 source:c:\users\carsten\documents\codeblocks\firstw32dialog\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1353754660 c:\users\carsten\documents\codeblocks\firstw32dialog\resource.h
+
+1353754660 source:c:\users\carsten\documents\codeblocks\firstw32dialog\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
